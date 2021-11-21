@@ -28,10 +28,10 @@
 ## Results Tables 
 
 #### Table 1 Sample
-![](04_README_Images/Table1_Image.JPG)
+![](04_README_Images/Table1_Image.jpg)
 
 #### Table 2 Sample
-![](04_README_Images/Table2_Image.JPG)
+![](04_README_Images/Table2_Image.jpg)
 
 
 
