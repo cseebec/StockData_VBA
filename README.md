@@ -8,4 +8,4 @@
 
 *  Both spreadsheets contain the same columns ticker, date, open, high, low, close, and vol. Here is a screenshot of some rows from the dataset. 
 
-![](04_README_IMAGES/Sample_Starting_Data.JPG)
+![](04_README_Images/Sample_Starting_Data.JPG)
