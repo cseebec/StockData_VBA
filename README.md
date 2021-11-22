@@ -1,5 +1,5 @@
 # StockData_VBA
-* In this repo I used VBA code (Excel Macros) to automate processes in excel. 
+* In this repo I use VBA code (Excel Macros) to automate processes in excel. 
 * The joy of VBA is to take the tediousness out of repetitive tasks and run them over and over again with a click of the button. That is exactly what the VBA code in this repo does. 
 * With a single click of a button the macro creates 2 annual summary tables based on the stock data for each tab in the spreadsheet.
 * Table 1 has the yearly change, yearly percentage change, and the total stock volume traded for every single stock from the starting data. 
